@@ -1,0 +1,16 @@
+{
+    "Stdudent": true,
+    "Teacher": true,
+    "Parent": true,
+    "Grade": true,
+    "Course": true,
+    "Question": true,
+    "Panel": true,
+    "Exam": true,
+    "Student": true,
+    "Parents": true,
+    "Gallery": true,
+    "Profile": true,
+    "Admin": true,
+    "Otp": true
+}
